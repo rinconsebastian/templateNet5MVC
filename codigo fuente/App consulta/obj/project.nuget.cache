@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilUSMvWKFg1Xgx984Hxzhokd6OSfXZPvc2FNE/wg8qAJ7at9PJpn4nQZWTW+YhWfBQEJq6+kKPj2bD4wpjcTqw==",
+  "dgSpecHash": "PZBC8wq+XWBYIuE7QxVtbuoE+12MfwMyVrHupy2rE81qJRh8wKaQMyInxbojKIvjdFe1H6RckV8XLx23Omdkag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rinco\\source\\repos\\App consulta\\App consulta\\App consulta.csproj",
+  "projectFilePath": "C:\\Users\\rinco\\Documents\\GitHub\\templateNet5MVC\\codigo fuente\\App consulta\\App consulta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rinco\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rinco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

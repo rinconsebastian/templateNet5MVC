@@ -7665,11 +7665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rinco\\source\\repos\\App consulta\\App consulta\\App consulta.csproj",
+      "projectUniqueName": "C:\\Users\\rinco\\Documents\\GitHub\\templateNet5MVC\\codigo fuente\\App consulta\\App consulta.csproj",
       "projectName": "App consulta",
-      "projectPath": "C:\\Users\\rinco\\source\\repos\\App consulta\\App consulta\\App consulta.csproj",
+      "projectPath": "C:\\Users\\rinco\\Documents\\GitHub\\templateNet5MVC\\codigo fuente\\App consulta\\App consulta.csproj",
       "packagesPath": "C:\\Users\\rinco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rinco\\source\\repos\\App consulta\\App consulta\\obj\\",
+      "outputPath": "C:\\Users\\rinco\\Documents\\GitHub\\templateNet5MVC\\codigo fuente\\App consulta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rinco\\AppData\\Roaming\\NuGet\\NuGet.Config",

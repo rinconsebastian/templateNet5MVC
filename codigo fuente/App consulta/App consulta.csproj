@@ -41,6 +41,8 @@
     <None Include="Views\Responsables\Index2.cshtml" />
     <None Include="Views\Shared\Components\DependenciaNombre\Default.cshtml" />
     <None Include="Views\Shared\Components\UsersByRole\Default.cshtml" />
+    <None Include="wwwroot\css\devexpress\icons\dxicons.woff2" />
+    <None Include="wwwroot\css\devexpress\icons\dxiconsmaterial.woff2" />
   </ItemGroup>
 
 </Project>
